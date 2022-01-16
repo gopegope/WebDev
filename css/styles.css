@@ -1,0 +1,29 @@
+body {
+  background-color: #f4f9f9;
+}
+
+hr{
+  border-style: none;
+  border-color: grey;
+  border-width: 5px;
+  border-top-style: dotted;
+  width: 5%;
+  }
+
+  h1:{
+    color: #253E67;
+  }
+  h3{
+    color: #253E67;
+  }
+
+img:hover{background-color:gold;}
+/* <!-- block codes-->
+  .Profile{ <!-- how to map class sections-->
+    background-color: green;
+  }
+
+  class: used for group of items (.)
+  id : user for unique item (#)
+  you can add two class into one element class via giving space btw words
+/*
